@@ -3,8 +3,8 @@ public class primeiraClasse {
         System.out.println("Esse é o Screen Match!");
         System.out.println("Filme: Top Gun: Maverick" );
 
-        int ano = 2022;
-        System.out.println("ano de lancamento: "+ ano);
+        int anoDeLancamento = 2022;
+        System.out.println("ano de lancamento: "+ anoDeLancamento);
         boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1;
 
@@ -17,7 +17,7 @@ public class primeiraClasse {
                 Filme de aventura com galã dos anos 80
                 muito bom!
                 Ano de lancamento: 
-                """ + ano;
+                """ + anoDeLancamento;
         System.out.println(sinopse);
 
         int classificacao;
